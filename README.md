@@ -9,7 +9,7 @@ learned**, continues in a new session exactly where it was, and lives in a repos
 There is no new algorithm. What is new is the engineering, and the repository is marked together with the
 behaviour.
 
-**Due: Thursday 10 December 2026, 23:59 (Asia/Tashkent).** 15 points.
+**Due: Thursday 10 December 2026, 23:59 (Asia/Almaty).** 15 points.
 
 **No API key. No GPU. No cost.** There is no notebook in this lab: you need Python and git on your own computer.
 **Use Python 3.12**: your program is checked with it, so your pinned versions must install on it. The
